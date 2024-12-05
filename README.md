@@ -16,4 +16,5 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-success?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>&nbsp
 </div>
